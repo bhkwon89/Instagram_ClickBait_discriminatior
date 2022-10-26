@@ -12,6 +12,7 @@
 예시) https://www.instagram.com/p/CicVM7qhYbl/
 
 
-## 전제 및 가설
-1. 악성 광고란 이미지에 '광고'라는 문구가 들어가있고
-2. 
+## 시연
+
+https://user-images.githubusercontent.com/27802354/197940957-fb0eb0a2-b29a-4934-8b9b-eb87e1f70026.mp4
+

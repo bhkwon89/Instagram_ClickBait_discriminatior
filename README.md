@@ -12,6 +12,10 @@
 예시) https://www.instagram.com/p/CicVM7qhYbl/
 
 
+## flowchart
+
+![image](https://user-images.githubusercontent.com/27802354/197943846-8758a72c-e7eb-470d-84a3-c8584a990667.png)
+
 ## 시연
 
 https://user-images.githubusercontent.com/27802354/197940957-fb0eb0a2-b29a-4934-8b9b-eb87e1f70026.mp4

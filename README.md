@@ -13,8 +13,8 @@
 
 
 ## flowchart
+![image](https://user-images.githubusercontent.com/27802354/197944358-09d41419-f0fc-47a7-aae3-1013bc04fb35.png)
 
-![image](https://user-images.githubusercontent.com/27802354/197943846-8758a72c-e7eb-470d-84a3-c8584a990667.png){: width="70%" height="70%"}  
 
 ## 시연
 
